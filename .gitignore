@@ -149,3 +149,5 @@ lib64/*
 *.out
 *.py[cod]
 output
+
+plugins/

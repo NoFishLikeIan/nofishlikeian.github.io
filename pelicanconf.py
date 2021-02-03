@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 
+import time
+
 AUTHOR = 'Andrea Titton'
 SITENAME = 'Andrea Titton'
 SITEURL = ''
@@ -30,5 +32,25 @@ SOCIAL = (('You can add links in your config file', '#'),
 
 DEFAULT_PAGINATION = 10
 
+# Custom settings for my own site to use in the copyright notice.
+CURRENT_YEAR = time.strftime("%Y")
+
+THEME = 'theme'
+
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
+
+MARKDOWN = {
+    'extension_configs': {
+        'markdown.extensions.codehilite': {'css_class': 'highlight'},
+        'markdown.extensions.extra': {},
+        'markdown.extensions.meta': {},
+    },
+    'output_format': 'html5',
+    'lazy_ol': False
+}
+
+DISPLAY_PAGES_ON_MENU = True
+
+PLUGIN_PATHS = ['./plugins']
+PLUGINS = ['render_math']
