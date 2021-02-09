@@ -1,4 +1,10 @@
-# Python parser for Fred_md 
+Title: Python Fred Md
+Date: 2021/02/09
+Tags: econ
+Authors: Andrea Titton
+Summary: Python parser for Fred Md data
+
+# Python parser for Fred Md data
 
 I published a parser for the FRED [data](https://github.com/NoFishLikeIan/fred_md) in Python
 

@@ -2,7 +2,7 @@ Title: Trophic Coherence
 Date: 2021/02/08
 Tags: econ, math
 Authors: Andrea Titton
-Summary: A primer on trophic coherence
+Summary: A primer on trophic levels
 
 
 #### This post uses the notation of the awesome paper by [MacKay, Johnson, and Sansom](https://arxiv.org/abs/2001.05173) (2020). Definitely check it out!
