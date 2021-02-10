@@ -12,7 +12,7 @@ from pelicanconf import *
 # explicitly specify it as your config file.
 
 # If your site is available via HTTPS, make sure SITEURL begins with https://
-SITEURL = 'https://nofihslikeian.netlify.app/'
+SITEURL = 'https://andreatitton.netlify.app/'
 RELATIVE_URLS = False
 
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
