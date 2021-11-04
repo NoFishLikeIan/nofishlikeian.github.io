@@ -6,7 +6,7 @@ Authors: Andrea Titton
 
 #### Work email ⚒
 
-You can find me at `a.titton@tinbergen.nl`.
+You can find me at `a.titton@uva.nl`.
 
 <br/><br/>
 
