@@ -5,13 +5,13 @@ Authors: Andrea Titton
 
 <br/><br/>
 
-Hello! I am Andrea Titton a PhD candidate at the University of Amsterdam.
+Hello! I am Andrea Titton a PhD candidate at the [CENDEF](https://cendef.uva.nl/) (University of Amsterdam)
 
 ## Current research
 
-I work on production networks in Economics. How do firms make decision about input goods? How do these decision induce a production network? Can a crisis trigger a phase transition in production networks?
+My work is on production networks in Economics: How do firms make decision about input goods? How do these decision induce a production network? Can a crisis trigger a phase transition in production networks?
 
-I mainly focus on theoretically simplifying endogenous production network models using graphons and analysing data using spectral graph theory (e.g. [trophic analysis]({filename}/articles/trophicanalysis.md)).
+Currently my main focus is on theoretically simplifying endogenous production network models using graphons and analysing data using spectral graph theory (e.g. [trophic analysis]({filename}/articles/trophicanalysis.md)).
 
 <br/><br/>
 
