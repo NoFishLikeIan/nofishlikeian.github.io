@@ -5,11 +5,11 @@ Authors: Andrea Titton
 
 <br/><br/>
 
-Hello everyone. My name is Andrea. I am guy interested in math, biology, and economics. 
+Hello! I am Andrea Titton a PhD candidate at the University of Amsterdam.
 
-Looking into getting a PhD at the [Tinbergen Institute](https://www.tinbergen.nl/home) sometime soon. 
+I am mostly interested on production networks in Economics. In particular, how do firms make decision about input goods, how do these decision induce a production network, and how does this network adjust after a crisis. I mainly focus on easing endogenous production network models by using graphons or on applying spectral methods (e.g. [trophic analysis]({filename}/articles/trophicanalysis.md)) on the empirical side.
 
-I am mostly interested in [trophic analysis]({filename}/articles/trophicanalysis.md) at the moment, history of central banking, and game theory ([cooperative](https://github.com/NoFishLikeIan/tinbergen/tree/master/homework/adv_gametheory) or [evolutionary](https://github.com/NoFishLikeIan/tinbergen/tree/master/homework/evolutionary), would like to get into compositional).
+I am also interested in cooperative (checkout my [package](https://github.com/NoFishLikeIan/CooperativeGames.jl)), evolutionary, and compositional game theory.
 
 - Follow me on
 [<img src="https://raw.githubusercontent.com/carlsednaoui/gitsocial/master/assets/icons%20with%20padding/twitter.png">](https://twitter.com/accuian) for some random math and econ stuff with a spray of ranting in italian. 
@@ -17,6 +17,3 @@ I am mostly interested in [trophic analysis]({filename}/articles/trophicanalysis
 - Follow me on [<img src="https://raw.githubusercontent.com/carlsednaoui/gitsocial/master/assets/icons%20with%20padding/github.png">](https://github.com/NoFishLikeIan) for some Julia, Python, and occasional Prolog.
 
 <br/><br/>
-
-See you and if you ever want to draw a ❤ use this,
-$(x^2+y^2-1)^3-x^2 \cdot y^3=0.$
