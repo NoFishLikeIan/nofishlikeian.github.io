@@ -7,13 +7,33 @@ Authors: Andrea Titton
 
 Hello! I am Andrea Titton a PhD candidate at the University of Amsterdam.
 
-I am mostly interested on production networks in Economics. In particular, how do firms make decision about input goods, how do these decision induce a production network, and how does this network adjust after a crisis. I mainly focus on easing endogenous production network models by using graphons or on applying spectral methods (e.g. [trophic analysis]({filename}/articles/trophicanalysis.md)) on the empirical side.
+## Current research
 
-I am also interested in cooperative (checkout my [package](https://github.com/NoFishLikeIan/CooperativeGames.jl)), evolutionary, and compositional game theory.
+I work on production networks in Economics. How do firms make decision about input goods? How do these decision induce a production network? Can a crisis trigger a phase transition in production networks?
 
-- Follow me on
+I mainly focus on theoretically simplifying endogenous production network models using graphons and analysing data using spectral graph theory (e.g. [trophic analysis]({filename}/articles/trophicanalysis.md)).
+
+<br/><br/>
+
+## Other stuff I am working on...
+
+- cooperative ([package](https://github.com/NoFishLikeIan/CooperativeGames.jl)), evolutionary, and compositional game theory
+- cross-border electricity markets ([draft work](https://github.com/NoFishLikeIan/prosumer-electricity-markets))
+- influence of institutional investors in decision making in firms ([draft work](https://github.com/NoFishLikeIan/nlp-financial-env))
+- bayesian motion perception ([code](https://github.com/phijoh/kalman-project))
+
+<br/><br/>
+
+## On the side
+I am also a math and computer lover. I play around with Prolog and Clojure, and I like to do some amateur mathematics.
+
+<br/><br/>
+
+## Follow me...
+
+- ...on
 [<img src="https://raw.githubusercontent.com/carlsednaoui/gitsocial/master/assets/icons%20with%20padding/twitter.png">](https://twitter.com/accuian) for some random math and econ stuff with a spray of ranting in italian. 
 
-- Follow me on [<img src="https://raw.githubusercontent.com/carlsednaoui/gitsocial/master/assets/icons%20with%20padding/github.png">](https://github.com/NoFishLikeIan) for some Julia, Python, and occasional Prolog.
+- ...on [<img src="https://raw.githubusercontent.com/carlsednaoui/gitsocial/master/assets/icons%20with%20padding/github.png">](https://github.com/NoFishLikeIan) for some Julia, Python, Clojure, and occasional Prolog.
 
 <br/><br/>
