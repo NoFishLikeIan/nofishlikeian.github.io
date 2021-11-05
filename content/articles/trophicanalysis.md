@@ -10,11 +10,9 @@ Summary: A primer on trophic levels
 ### What is it?
 
 
-<img src="https://github.com/NoFishLikeIan/trophic-resilience/blob/master/plots/presentations/electricity.png?raw=true" height="250px" style="float: left"/> 
+Imagine you are dealing with a weighted directed graph and you know there is some interdependency of sort. You want to figure out which node, if removed, could hinder the stability of the dynamical process you have in mind.
 
-Imagine you face the weighted directed graph on the side and you know there is some interdependency of sort. You want to figure out which node, if removed, could hinder the stability of the dynamical process you have in mind.
-
-The most intuitive thing you can do is to look at the graph Laplacian operator $$\Lambda = \text{diag}(u) - W - W^T,$$ where $W$ is the weight matrix and $u$ is the total weight vector (i.e. the sum of in- and out-weights for each node). I like to think of it (improperly) as the graph analog of the Laplace operator $\nabla^2$ which is a key operator to study a diffusion process on functions. So it makes sense that when you think of diffusion processes on a network structure you look at $\Lambda$.
+The most intuitive thing you can do is to look at the graph Laplacian operator $$\Lambda = \text{diag}(u) - W - W^T,$$ where $W$ is the weight matrix and $u$ is the total weight vector (i.e. the sum of in- and out-weights for each node). I like to think of it (improperly) as the graph analog of the Laplace operator $\nabla^2$ which is a key operator to study a diffusion process on vector spaces. So it makes sense that when you think of diffusion processes on a network structure you look at $\Lambda$.
 
 Here is where the trophic level comes in: it is the vector $h$ that solves,
 
@@ -39,7 +37,7 @@ x = \begin{pmatrix}
 \end{pmatrix}.
 $$
 
-Then we can compute the weight and imbalance vector, 
+This might look something like this on a graph,
 
 $$
     u = \begin{pmatrix}
