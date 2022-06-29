@@ -5,27 +5,68 @@ Authors: Andrea Titton
 
 <br/><br/>
 
-Hello! I am Andrea Titton a PhD candidate at the [CENDEF](https://cendef.uva.nl/) (University of Amsterdam)
+<img src="{filename}/images/palude.jpg" alt="drawing" width="600"/>
 
-## Current research
 
-My work is on production networks in Economics: How do firms make decision about input goods? How do these decision induce a production network? Can a crisis trigger a phase transition in production networks?
+Hello! I am Andrea Titton, PhD candidate in Quantitative Economics at the [CENDEF group](https://cendef.uva.nl/), University of Amsterdam.
 
-Currently my main focus is on theoretically simplifying endogenous production network models using graphons and analysing data using spectral graph theory (e.g. [trophic analysis]({filename}/articles/trophicanalysis.md)).
+### PhD and Job Market Paper
 
-<br/><br/>
+<figure style="float: right; margin-left: 100px">
+    <img src="{filename}/images/basin_small.png" alt="drawing" width="450"/>
+    <figcaption style = "text-align: center">A dynamical system over supply chain depth instead of time. </figcaption>
+</figure>
 
-## Other stuff I am working on...
+I work on theoretical economics. Particularly **games on networks** and **endogenous production networks**. I am developing a model of suppliers' risk diversification to study the effect of firm decision on production network fragilities. I use techniques from dynamical systems and percolation theory and combine them with network games. The model shows that correlation among suppliers can reduce firm diversification. This introduces fragility in a production network even if risk is kept constant (The plot on 👉 shows the tipping point arising from this mechanism.)
 
-- cooperative ([package](https://github.com/NoFishLikeIan/CooperativeGames.jl)), evolutionary, and compositional game theory
-- cross-border electricity markets ([draft work](https://github.com/NoFishLikeIan/prosumer-electricity-markets))
-- influence of institutional investors in decision making in firms ([draft work](https://github.com/NoFishLikeIan/nlp-financial-env))
-- bayesian motion perception ([code](https://github.com/phijoh/kalman-project))
+Furthermore, I calibrate the model using graphon estimation techniques ([à la Pensky](https://arxiv.org/pdf/1607.00673.pdf)) on [CBS firm level data](https://www.cbs.nl/en-gb/onze-diensten/customised-services-microdata/microdata-conducting-your-own-research). I am trying to construct an index of correlation risk and relating it to other common techniques to determine network stability (e.g. [trophic analysis]({filename}/articles/trophicanalysis.md)).
 
-<br/><br/>
 
-## On the side
-I am also a math and computer lover. I play around with Prolog and Clojure, and I like to do some amateur mathematics.
+### Cooperative game theory
+
+I developed and mantain a Julia package to solve cooperative games ([CooperativeGames.jl](https://github.com/NoFishLikeIan/CooperativeGames.jl)). Defining a game is as simple as
+
+
+```julia
+players = collect(1:6)
+links = [(1, 2), (1, 3), (2, 4), (3, 5), (4, 5), (5, 6)]
+value(S::Players) = (1 ∈ S && 6 ∈ S) ? 1 : 0
+
+G = GraphGame(players, value, links)
+```
+
+which gives you a lot of convenient and fast computational methods
+
+```julia
+isconvex(G)
+fₛ(G) # Shapley value
+graphtoMyerson(G) # Myerson formulation
+degreeHarsanyi(G) # Harsanyi degrees
+```
+
+### NLP analysis and sustainability 
+
+This is a joint work with the [Amsterdam Center for Law and Economics](https://acle.uva.nl/), partly funded by the [*A Sustainable Future*](https://asf.uva.nl/) grant.
+
+Institutional investors have large voting power in many polluting firms. However, their engagement with portfolio companies is imperfectly observable. We infer it based on an NLP algorithm applied to investors' disclosures. We calculate the index for investors and study its relationship with CO2 emissions and ESG performance of portfolio companies.
+
+### Motion Perception and Particle Filters
+
+<figure style="float: right; margin-left: 100px">
+    <img src="{filename}/images/extrapolation.gif" alt="drawing" width="450"/>
+    <figcaption style = "text-align: center">A particle filter model of motion extrapolation. </figcaption>
+</figure>
+
+We study the mechanism that allows the brain to compensate for neural delays. After collecting behavioural data on the illusion illustrated on the 👉, we calibrate a particle filter model, and show that it is consistent with the observed extrapolation.
+
+### On the side
+I love math and computers. I like playing around with [Prolog](https://github.com/NoFishLikeIan/prolog-playground) and [Clojure](https://github.com/NoFishLikeIan/dietary-monitor). I also do some recreational math. I love games of no chance, mainly chess and [domineering](https://webdocs.cs.ualberta.ca/~games/domineering/). Finally I am fascinated by [hot water bottles](https://solar.lowtechmagazine.com/2022/01/the-revenge-of-the-hot-water-bottle.html) and economic history.
+
+### Reading now:
+
+- [The Turn](https://www.theatlantic.com/past/docs/unbound/langew/turn.htm) by *William Langewiesche*
+- The Story of Work by *Jan Lucassen*
+- On Numbers and Games by *John Conway*
 
 <br/><br/>
 

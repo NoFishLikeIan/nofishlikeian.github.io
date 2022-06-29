@@ -55,3 +55,4 @@ DISPLAY_PAGES_ON_MENU = True
 
 PLUGIN_PATHS = ['./activate_plugins']
 PLUGINS = ['render_math']
+STATIC_PATHS = ['images']
