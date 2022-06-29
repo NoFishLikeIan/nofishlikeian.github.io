@@ -10,6 +10,8 @@ SITEURL = ''
 
 PATH = 'content'
 
+STATIC_PATHS = ["htmls"]
+
 TIMEZONE = 'Europe/Paris'
 
 DEFAULT_LANG = 'en'
@@ -55,3 +57,5 @@ DISPLAY_PAGES_ON_MENU = True
 
 PLUGIN_PATHS = ['./activate_plugins']
 PLUGINS = ['render_math']
+
+
