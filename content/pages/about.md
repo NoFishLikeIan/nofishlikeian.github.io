@@ -5,7 +5,7 @@ Authors: Andrea Titton
 
 <br/><br/>
 
-<img src="{filename}/images/palude.jpg" alt="drawing" width="600"/>
+<img src="{static}/images/palude.jpg" alt="drawing" width="600"/>
 
 
 Hello! I am Andrea Titton, PhD candidate in Quantitative Economics at the [CENDEF group](https://cendef.uva.nl/), University of Amsterdam.
@@ -13,7 +13,7 @@ Hello! I am Andrea Titton, PhD candidate in Quantitative Economics at the [CENDE
 ### PhD and Job Market Paper
 
 <figure style="float: right; margin-left: 100px">
-    <img src="{filename}/images/basin_small.png" alt="drawing" width="450"/>
+    <img src="{static}/images/basin_small.png" alt="drawing" width="450"/>
     <figcaption style = "text-align: center">A dynamical system over supply chain depth instead of time. </figcaption>
 </figure>
 
@@ -53,7 +53,7 @@ Institutional investors have large voting power in many polluting firms. However
 ### Motion Perception and Particle Filters
 
 <figure style="float: right; margin-left: 100px">
-    <img src="{filename}/images/extrapolation.gif" alt="drawing" width="450"/>
+    <img src="{static}/images/extrapolation.gif" alt="drawing" width="450"/>
     <figcaption style = "text-align: center">A particle filter model of motion extrapolation. </figcaption>
 </figure>
 
