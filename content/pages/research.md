@@ -7,7 +7,7 @@ Authors: Andrea Titton
 ## Supply chain fragility
 
 <figure style="float: right; text-align: center;">
-    <img src="{static}/images/welfare_gain.png" alt="drawing" width="400"/>
+    <img src="{static}/images/welfare_gain.png" alt="Welfare losses in endogenous production network with unobservability. Surface plot with discontinuity." width="400"/>
     <figcaption>Welfare losses in endogenous production<br> network with unobservability</figcaption>
 </figure>
 
@@ -27,7 +27,7 @@ $$
 where $\mu(T, E)$ is cubic in $T$ and linear $E$. Furthermore, assume a concave utility of emissions $u(E)$ and a convex damage function $d(T)$. Then a carbon tax reduces the risk of a path that leads to a tipping point (solid red line in the figure below).
 
 <figure style="text-align: center;">
-    <img src="{static}/images/carbon-tax.png" alt="drawing" width="900"/>
+    <img src="{static}/images/carbon-tax.png" alt="Basin of attractions shifts with and without a carbon tax." width="900"/>
 </figure>
 
 Finally, I introduce a differential game where multiple emitters and a regulator interact. I show that the regulator can mitigate the probability of a tipping point by setting an optimal carbon tax.
@@ -49,3 +49,7 @@ To accurately estimate the position of a moving object, the brain must overcome 
 This is a joint work with the [Amsterdam Center for Law and Economics](https://acle.uva.nl/), partly funded by the [*A Sustainable Future*](https://asf.uva.nl/) grant.
 
 Institutional investors have large voting power in many polluting firms. However, their engagement with portfolio companies is imperfectly observable. We infer it based on an NLP algorithm applied to investors' disclosures. We calculate the index for investors and study its relationship with CO2 emissions and ESG performance of portfolio companies.
+
+<figure style="text-align: center;">
+    <img src="{static}/images/localisation.gif" alt="A gif of the twinkle goes illusion" width="1000"/>
+</figure>

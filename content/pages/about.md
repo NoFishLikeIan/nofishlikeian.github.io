@@ -6,7 +6,7 @@ Authors: Andrea Titton
 <br/><br/>
 
 <figure style="float: right; text-align: center; margin-left:1em">
-    <img src="{static}/images/patagonia.jpg" alt="drawing" width="600"/>
+    <img src="{static}/images/patagonia.jpg" alt="An ugly picture of me in patagonia" width="600"/>
 </figure>
 
 
