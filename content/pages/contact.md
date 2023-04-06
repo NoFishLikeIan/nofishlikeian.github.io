@@ -2,20 +2,10 @@ Title: Contact ☎
 Date: 2021-02-03
 Authors: Andrea Titton
 
-<br/><br/>
-
-#### Work email ⚒
+### Email me 📧
 
 You can find me at `a.titton@uva.nl`.
 
-<br/><br/>
+### Drop by my office 🏢
 
-#### Personal email 🐦
-
-Have you ever heard of a [Vigenère cipher](https://en.wikipedia.org/wiki/Vigen%C3%A8re_cipher)?
-
-My email is hidden here,
-
-`Tctl bvm! Ui iuavy oiljlda sw inqesfbaaewx eb gznwq lga nww`
-
-Where the 🔑 is the <img src="https://raw.githubusercontent.com/carlsednaoui/gitsocial/master/assets/icons%20with%20padding/github.png">.
+[Roeterseiland Campus](https://www.uva.nl/en/shared-content/locaties/en/roeterseiland/rec-e.html), Office E10.10

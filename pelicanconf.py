@@ -43,9 +43,13 @@ THEME = 'theme'
 
 MARKDOWN = {
     'extension_configs': {
+        'markdown.extensions.admonition': {},
         'markdown.extensions.codehilite': {'css_class': 'highlight'},
         'markdown.extensions.extra': {},
         'markdown.extensions.meta': {},
+        'smarty' : {
+            'smart_angled_quotes' : 'true'
+        },
     },
     'output_format': 'html5',
     'lazy_ol': False
@@ -57,5 +61,8 @@ PLUGIN_PATHS = ['./activate_plugins']
 PLUGINS = ['render_math']
 STATIC_PATHS = ['images', 'extra']
 EXTRA_PATH_METADATA = {
-    'extra/favicon.ico': {'path': 'favicon.ico'}
+    'extra/favicon.ico': {'path': 'favicon.ico'},
+    'extras/custom.css': {'path': 'static/custom.css'}
 }
+
+CUSTOM_CSS = 'static/custom.css'
