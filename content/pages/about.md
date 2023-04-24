@@ -10,12 +10,12 @@ Authors: Andrea Titton
 </figure>
 
 
-Hello! I am Andrea, PhD candidate in Quantitative Economics at the [CENDEF group](https://cendef.uva.nl/), University of Amsterdam.
+Hello! I am Andrea, PhD candidate in Quantitative Economics at the [CENDEF group](https://cendef.uva.nl/), University of Amsterdam. [Here is my CV.]({attach}/cv/Academic_CV.pdf)
 
 ### PhD
 
 
-I work on economics of networks and environmental economics. Particularly **differential games** and **production networks**. I am currently working on a few papers. Check my [research page](/pages/research.html) for more details.
+I work on economics of networks and environmental economics. Particularly **differential games** and **production networks**. I am currently working on a few papers. Check my [research page](/pages/research.html) for more details. 
 
 
 

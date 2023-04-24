@@ -59,10 +59,9 @@ DISPLAY_PAGES_ON_MENU = True
 
 PLUGIN_PATHS = ['./activate_plugins']
 PLUGINS = ['render_math']
-STATIC_PATHS = ['images', 'extra']
+STATIC_PATHS = ['images', 'extra', 'cv']
 EXTRA_PATH_METADATA = {
-    'extra/favicon.ico': {'path': 'favicon.ico'},
-    'extras/custom.css': {'path': 'static/custom.css'}
+    'extra/favicon.ico': {'path': 'favicon.ico'}
 }
 
 CUSTOM_CSS = 'static/custom.css'

@@ -41,7 +41,7 @@ I study theoretically the impact of the volatility of the electricity market on 
 # Neuroscience
 ## Motion Perception and Particle Filters
 
-To accurately estimate the position of a moving object, the brain must overcome neural processing delays. This is theorized to be achieved through motion extrapolation, a process in which information about an object’s previous trajectory is used to estimate its current position. Previous research has demonstrated that motion extrapolation can be modelled as Bayesian inference. In the present paper, we employ a particle filter to investigate whether this Bayesian framework can explain a recently discovered visual illusion, in which the perceived offset of a moving object is mislocalised forwards due to the presentation of dynamic noise. Preliminary results suggest that the model can capture this effect, and, therefore, that the illusion might be driven by motion extrapolation.
+To accurately estimate the position of a moving object, the brain must overcome neural processing delays. This is theorized to be achieved through motion extrapolation, a process in which information about an object’s previous trajectory is used to estimate its current position. Previous research has demonstrated that motion extrapolation can be modelled as Bayesian inference. Here we employ a particle filter to investigate whether this Bayesian framework can explain a recently discovered visual illusion, in which the perceived offset of a moving object is mislocalised forwards due to the presentation of dynamic noise. Preliminary results suggest that the model can capture this effect, and, therefore, that the illusion might be driven by motion extrapolation.
 
 # Law and Finance
 ## NLP analysis and sustainability 
