@@ -20,7 +20,7 @@ I work on economics of networks and environmental economics. Particularly **diff
 
 
 ### On the side
-I love math and computers. I like playing around with [Prolog](https://github.com/NoFishLikeIan/prolog-playground) and [Clojure](https://github.com/NoFishLikeIan/dietary-monitor). I also do some recreational math. I love games of no chance, mainly chess and [domineering](https://webdocs.cs.ualberta.ca/~games/domineering/). Finally I like [hot water bottles](https://solar.lowtechmagazine.com/2022/01/the-revenge-of-the-hot-water-bottle.html) and economic history, especially history of central banking (checkout [this](https://www.jstor.org/stable/2599884) very good paper).
+I love math and computers. I like playing around with [Prolog](https://github.com/NoFishLikeIan/prolog-playground) and [Clojure](https://github.com/NoFishLikeIan/dietary-monitor). I also do some recreational math. I love games of no chance, mainly chess and [domineering](https://webdocs.cs.ualberta.ca/~games/domineering/). I also like [hot water bottles](https://solar.lowtechmagazine.com/2022/01/the-revenge-of-the-hot-water-bottle.html) and economic history, especially history of central banking (checkout [this](https://www.jstor.org/stable/2599884) very good paper).
 
 ### Reading now:
 
