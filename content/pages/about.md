@@ -24,10 +24,10 @@ I love math and computers. I like playing around with [Prolog](https://github.co
 
 ### Reading now:
 
-- [_The Turn_](https://www.theatlantic.com/past/docs/unbound/langew/turn.htm) by *William Langewiesche*
 - _Roadside Picnic_ by *Arkady and Boris Strugatsky*
 - _The Story of Work_ by *Jan Lucassen*
 - _On Numbers and Games_ by *John Conway*
+- _The grasshopper_ by *Bernard Suits*
 
 <br/><br/>
 
