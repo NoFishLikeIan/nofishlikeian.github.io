@@ -6,13 +6,15 @@ Authors: Andrea Titton
 
 ## Supply chain fragility
 
+[Here is the draft]({attach}/papers/Endogenous-Fragility-Opaque-Supply-Chains.pdf)
+
 <figure style="float: right; text-align: center;">
     <img src="{static}/images/welfare_gain.png" alt="Welfare losses in endogenous production network with unobservability. Surface plot with discontinuity." width="400"/>
     <figcaption>Welfare losses in endogenous production<br> network with unobservability</figcaption>
 </figure>
 
-I investigates the role of supply chain unobservability in generating endogenously fragile production networks. I study a simple production game in which firms need to pick suppliers by forming rational beliefs about to what extent their risk is correlated. After some math involving powers of the beta distribution, I find the optimal sourcing strategy of the agents and show that the network is fragile if and only if the correlation between the firms' risk is below a certain threshold. 
-Finally, I characterise the propagation of risk across the production network and show that there are large and discontinuous welfare losses associated with the competitive equilibrium. 
+This paper investigates the role of supply chain unobservability in generating endogenously fragile production networks. In a simple production game, in which firms need to multisource to hedge against suppliers’ risk under unobservability, firms underdiversify vis-`a-vis the social optimum. The unobservability of suppliers’ relations is the driver behind this. In production networks where upstream risk is highly correlated and supplier relationships are not observable, the marginal risk reduction of adding an additional supplier is low, because this additional supplier’s risk is likely to be correlated to that of existing suppliers. This channel reduces firm incentives to diversify, which gives rise to inefficiently fragile production networks.
+By solving the social planner problem, I show that, if the risk reduction experi- enced downstream resulting from upstream diversification were to be internalised by upstream firms, endogenous production networks would be resilient to most levels of risk. Despite its stylised form, the model identifies the trade-off firms face when diversifying risk and isolates the mechanism that aggregates these decisions into a production network. Furthermore, it maps the conditions of the trade-off, such as expected profits of the firm or the pairing costs, to the properties of the production network
 
 ## Social Cost of Carbon under Tipping points
 

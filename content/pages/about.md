@@ -24,10 +24,12 @@ I love math and computers. I like playing around with [Prolog](https://github.co
 
 ### Reading now:
 
-- _Roadside Picnic_ by *Arkady and Boris Strugatsky*
 - _The Story of Work_ by *Jan Lucassen*
 - _On Numbers and Games_ by *John Conway*
-- _The grasshopper_ by *Bernard Suits*
+- _The Examined Life_ by *Robert Nozick*
+- _Elbow Room_ by *Daniel Dennett*
+
+
 
 <br/><br/>
 
