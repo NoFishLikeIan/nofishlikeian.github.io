@@ -1,5 +1,5 @@
 {
-  "name": "eleventy-netlify-boilerplate",
+  "name": "nofishlikeian.github.io",
   "version": "1.0.4",
   "description": "A boilerplate for building a fast static website with the Eleventy static site generator, for deployment to Netlify.",
   "scripts": {
@@ -10,18 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/danurbanowicz/eleventy-netlify-boilerplate"
+    "url": "https://github.com/nofishlikeian/nofishlikeian.github.io"
   },
   "author": {
-    "name": "Dan Urbanowicz",
-    "email": "dan.urbanowicz@gmail.com",
-    "url": "https://github.com/danurbanowicz"
+    "name": "Andrea Titton",
+    "url": "https://github.com/nofishlikeian"
   },
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/danurbanowicz/eleventy-netlify-boilerplate/issues"
-  },
-  "homepage": "https://github.com/danurbanowicz/eleventy-netlify-boilerplate",
+  "homepage": "https://github.com/nofishlikeian/nofishlikeian.github.io",
   "devDependencies": {
     "@11ty/eleventy": "^2.0.1",
     "@11ty/eleventy-navigation": "^0.3.5",
