@@ -13,8 +13,8 @@ eleventyNavigation:
 - **EFChaos.jl**
     Julia package to simulate non-linear economic and finance models. Porting of E&F Chaos.
 
-- **fred_md**
+- [**fred_md**](https://github.com/NoFishLikeIan/fred_md)
     Python package to import and manipulate Fred MD data
     
-- **nlp-financial-env**
+- [**nlp-financial-env**](https://github.com/NoFishLikeIan/nlp-financial-env)
     Python package to extract green saliency of institutional investors reports, based on Latent Dirichlet Allocations.

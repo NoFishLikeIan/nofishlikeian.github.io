@@ -11,7 +11,7 @@ eleventyNavigation:
 ### PhD
 
 
-I work on economics of networks and environmental economics. Particularly **differential games** and **production networks**. I am currently working on a few papers. Check my [research page](/pages/research.html) for more details. 
+I work on economics of networks and environmental economics. Particularly **differential games** and **production networks**. I am currently working on a few papers. Check my [research page](/research) for more details. 
 
 
 
