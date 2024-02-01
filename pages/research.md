@@ -11,8 +11,8 @@ eleventyNavigation:
 
 - [**Endogenous Fragility in Opaque Supply Chains**](../static/docs/endfrag.pdf) - 2022
     Can supply chain unobservability generate endogenously fragile production network? I investigate this in a network production game.
-- **Climate Tipping Points and Optimal Emissions** - 2023
-    How does the risk of climate tipping affect the social cost of carbon? I solve a social planner economy with non-linear climate dynamics.
+- [**The Perils of Abatement Procrastination in the Presence of Tipping Points**](../static/docs/tipping-points-titton-2023.pdf) - 2023
+    I model a stylised ice-albedo tipping point in the climate dynamics and study the consequences this has in determining optimal emissions in a dynamic stochastic general equilibrium model. I show that the presence of a tipping point prescribes ambitious abatement policies, not only in scope but, crucially, in timing.
 - **Blurred Price Signals in EU Emissions Trading System** - 2023 
     Is there a link between volatility in the secondary market of emission permits and firms’ innovation incentives? Should regulators step in and stabilise permit prices?
 
