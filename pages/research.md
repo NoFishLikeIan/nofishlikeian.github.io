@@ -9,11 +9,11 @@ eleventyNavigation:
 
 ## Economics
 
-- [**Endogenous Fragility in Opaque Supply Chains**](../static/docs/endfrag.pdf) - 2022
-    I model the endogenous formation of supply chains in the presence of correlated disruptions. The incentives of firms to diversify the supply chain risk are concave in the correlation between the disruption events among producers of their input goods. This concavity has consequences for the endogenous formation of the supply chain. If upstream producers are highly diversified, their disruption risk might be correlated, which, in turn, reduces diversification incentives for downstream firms. Because of this mechanism, a small increase in the correlation of risk among upstream producers, due to, for example, offshoring or climate disruptions to economic activities, can generate under-diversification throughout the production network. This creates large welfare losses. Finally, I show that firms gaining more information on their supply chain risk exacerbates such losses.
-- [**The Perils of Abatement Procrastination in the Presence of Tipping Points**](../static/docs/tipping-point-abatement.pdf) - 2023
+- [**Endogenous Fragility of Supply Chains and Correlated Disruption Risk**](../static/docs/endfrag.pdf) (2022 - ongoing)
+    I model the endogenous formation of supply chains in the presence of correlated disruptions. The incentives of firms to diversify the supply chain risk are concave in the correlation between the disruption events among producers of their input goods. This concavity has consequences for the endogenous formation of the supply chain. If upstream producers are highly diversified, their disruption risk might be correlated, reducing diversification incentives for downstream firms. Because of this mechanism, a small increase in the correlation of risk among upstream producers, due to, for example, offshoring or climate disruptions to economic activities, can generate under-diversification throughout the production network. This creates large welfare losses. Finally, I show that firms gaining more information on their supply chain risk exacerbates such losses.
+- [**The Perils of Abatement Procrastination in the Presence of Tipping Points**](../static/docs/tipping-point-abatement.pdf) (2023 - ongoing)
     I model a stylised ice-albedo tipping point in the climate dynamics and study the consequences this has in determining optimal emissions in a dynamic stochastic general equilibrium model. I show that the presence of a tipping point prescribes ambitious abatement policies, not only in scope but, crucially, in timing.
-- **Blurred Price Signals in EU Emissions Trading System** - 2023 
+- **Blurred Price Signals in EU Emissions Trading System** (2023 - ongoing) 
     Is there a link between volatility in the secondary market of emission permits and firms’ innovation incentives? Should regulators step in and stabilise permit prices?
 
 
