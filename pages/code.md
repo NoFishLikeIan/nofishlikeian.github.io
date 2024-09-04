@@ -4,7 +4,7 @@ date: 2023-01-01
 permalink: /code/index.html
 eleventyNavigation:
   key: Code
-  order: 5
+  order: 3
 ---
 
 - [**CooperativeGames.jl**](https://github.com/NoFishLikeIan/CooperativeGames.jl)

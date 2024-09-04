@@ -4,7 +4,7 @@ date: 2023-01-01
 permalink: /research/index.html
 eleventyNavigation:
   key: Research
-  order: 3
+  order: 2
 ---
 
 ## Economics

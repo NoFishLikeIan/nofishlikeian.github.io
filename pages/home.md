@@ -5,16 +5,21 @@ date: 2023-01-04T00:00:00.000Z
 permalink: /
 eleventyNavigation:
   key: Home
-  order: 0
----Hello! I am Andrea, PhD candidate in Quantitative Economics at the [CENDEF group](https://cendef.uva.nl/), University of Amsterdam. [Here is my CV.](static/docs/cv-2023.pdf)
+  order: 1
+---
+
+Hello! I am Andrea, PhD candidate in Quantitative Economics at the [CENDEF group](https://cendef.uva.nl/), University of Amsterdam. [Here is my CV.](static/docs/cv-2023.pdf)
 
 ### PhD
 
+My research focuses on climate tipping points and their economic consequences. I am more broadly interest in environmental economics and game theory, particularly *differential* and *network* games. 
 
-I work on economics of networks and environmental economics. Particularly **differential games** and **production networks**. I am currently working on a few papers. Check my [research page](/research) for more details. 
+**I am currently on the job market.** Find the [latest version of my JMP here](../static/docs/tipping-point.pdf).
+
+You can find my work in progress in [research page](/research).
 
 ### On the side
-I like math and computers. I often play around with [Prolog](https://github.com/NoFishLikeIan/prolog-playground) and [Clojure](https://github.com/NoFishLikeIan/dietary-monitor). I love games of no chance, mainly chess and [domineering](https://webdocs.cs.ualberta.ca/~games/domineering/). I also like [hot water bottles](https://solar.lowtechmagazine.com/2022/01/the-revenge-of-the-hot-water-bottle.html) and economic history, especially history of central banking (checkout [this](https://www.jstor.org/stable/2599884) very good paper).
+I like math and computers. I often play around with [Prolog](https://github.com/NoFishLikeIan/prolog-playground) and [Clojure](https://github.com/NoFishLikeIan/dietary-monitor). I love games of no chance, mainly chess and [domineering](https://webdocs.cs.ualberta.ca/~games/domineering/). I also like [hot water bottles](https://solar.lowtechmagazine.com/2022/01/the-revenge-of-the-hot-water-bottle.html) and economic history, especially history of central banking.
 
 ### Reading now:
 
