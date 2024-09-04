@@ -16,7 +16,7 @@ My research focuses on climate tipping points and their economic consequences. I
 
 **I am currently on the job market.** Find the [latest version of my JMP here](../static/docs/tipping-point.pdf).
 
-You can find my work in progress in [research page](/research).
+You can find my work in progress under [research](/research).
 
 ### On the side
 I like math and computers. I often play around with [Prolog](https://github.com/NoFishLikeIan/prolog-playground) and [Clojure](https://github.com/NoFishLikeIan/dietary-monitor). I love games of no chance, mainly chess and [domineering](https://webdocs.cs.ualberta.ca/~games/domineering/). I also like [hot water bottles](https://solar.lowtechmagazine.com/2022/01/the-revenge-of-the-hot-water-bottle.html) and economic history, especially history of central banking.
