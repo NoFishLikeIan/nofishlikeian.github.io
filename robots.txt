@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: 
+
+Host: https://andreatitton.com/
+Sitemap: https://andreatitton.com/sitemap.xml

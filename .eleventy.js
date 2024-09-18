@@ -98,6 +98,8 @@ module.exports = function(eleventyConfig) {
     .use(markdownItAnchor, opts)
   );
 
+  eleventyConfig.addPassthroughCopy({"robots.txt": "robots.txt"});
+
   return {
     templateFormats: ["md", "njk", "liquid"],
 
