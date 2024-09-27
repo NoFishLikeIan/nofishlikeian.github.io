@@ -8,7 +8,9 @@ eleventyNavigation:
   order: 1
 ---
 
-Hello! I am Andrea, PhD candidate in Quantitative Economics at the [CENDEF group](https://cendef.uva.nl/), University of Amsterdam. [Here is my CV.](static/docs/cv-2023.pdf)
+Hello! I am Andrea, PhD candidate in Quantitative Economics at the [CENDEF group](https://cendef.uva.nl/), University of Amsterdam. Under the supervision of [Florian Wagener](https://www.uva.nl/en/profile/w/a/f.o.o.wagener/f.o.o.wagener.html) and [Cees Diks](https://www.uva.nl/en/profile/d/i/c.g.h.diks/c.g.h.diks.html). 
+
+[Here is my CV.](static/docs/cv-2023.pdf)
 
 ### PhD
 
