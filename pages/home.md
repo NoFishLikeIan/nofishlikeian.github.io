@@ -10,13 +10,9 @@ eleventyNavigation:
 
 Hello! I am Andrea, PhD candidate in Quantitative Economics at the [CENDEF group](https://cendef.uva.nl/), University of Amsterdam. Under the supervision of [Florian Wagener](https://www.uva.nl/en/profile/w/a/f.o.o.wagener/f.o.o.wagener.html) and [Cees Diks](https://www.uva.nl/en/profile/d/i/c.g.h.diks/c.g.h.diks.html). 
 
-[Here is my CV.](static/docs/titton-cv.pdf)
+My research focuses on climate tipping points and their economic consequences. I am more broadly interest in environmental economics and game theory, particularly differential and network games. 
 
-### PhD
-
-My research focuses on climate tipping points and their economic consequences. I am more broadly interest in environmental economics and game theory, particularly *differential* and *network* games. 
-
-**I am currently on the job market.** Find the [latest version of my JMP here](../static/docs/tipping-point.pdf).
+**I am currently on the job market.** Find the [latest version of my JMP here](../static/docs/tipping-point.pdf) and [my CV here.](static/docs/titton-cv.pdf)
 
 You can find my work in progress under [research](/research).
 
