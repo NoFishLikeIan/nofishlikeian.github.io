@@ -7,6 +7,12 @@ eleventyNavigation:
   order: 4
 ---
 
+## Lecturer 
+
+### Master
+
+- [Economic and Financial Network Analysis](https://coursecatalogue.uva.nl/xmlpages/page/2024-2025-en/search-course/course/120520)
+
 ## TA
 
 ### Bachelor
