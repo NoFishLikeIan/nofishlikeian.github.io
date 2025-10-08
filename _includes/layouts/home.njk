@@ -3,8 +3,47 @@ layout: layouts/base.njk
 section: home
 ---
 
-<figure style="float: right; text-align: center; margin-left:1em, max-width:500px">
-    <img src="static/img/patagonia.jpg" alt="An ugly picture of me in patagonia" width="100%" height="auto"/>
-</figure>
+<style>
+/* Default: horizontal layout (image on the right). Prevent wrapping so items stay side-by-side on wide/horizontal windows */
+.home-split {
+    display: flex;
+    gap: 1rem;
+    align-items: flex-start;
+    flex-wrap: nowrap;
+}
+.home-split > .home-content,
+.home-split > .home-image {
+    box-sizing: border-box;
+    min-width: 0;
+}
+.home-split > .home-content { flex: 1 1 50%; }
+.home-split > .home-image   { flex: 0 0 50%; text-align: center; }
 
-{{ layoutContent | safe }}
+/* Portrait / narrow windows: stack vertically (image on bottom) */
+@media (orientation: portrait), (max-width: 700px) {
+    .home-split {
+        flex-direction: column;
+        flex-wrap: wrap;
+    }
+    .home-split > .home-content,
+    .home-split > .home-image {
+        flex: 1 1 100%;
+    }
+    .home-split > .home-image { order: 2; }
+    .home-split > .home-content { order: 1; }
+}
+</style>
+
+<div class="home-split">
+                <div class="home-content">
+                                {{ layoutContent | safe }}
+                </div>
+
+                <div class="home-image">
+                                <a href="/reading/index.html">
+                                                                <figure style="margin:0;">
+                                                                                <img src="static/img/patagonia.jpg" alt="Author standing in front of mountains in Patagonia" style="width:100%; height:auto; display:block;"/>
+                                                                </figure>
+                                </a>
+                </div>
+</div>

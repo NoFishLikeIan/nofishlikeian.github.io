@@ -1,34 +1,21 @@
 ---
 layout: layouts/home.njk
 title: Andrea Titton
-date: 2023-01-04T00:00:00.000Z
+date: 2025-10-08
 permalink: /
 eleventyNavigation:
   key: Home
   order: 1
 ---
 
-Hello! I am Andrea Titton, PhD candidate in Quantitative Economics at the [CeNDEF group](https://cendef.uva.nl/) of the University of Amsterdam at the [Tinbergen Institute](https://tinbergen.nl/), under the supervision of [Florian Wagener](https://www.uva.nl/en/profile/w/a/f.o.o.wagener/f.o.o.wagener.html) and [Cees Diks](https://www.uva.nl/en/profile/d/i/c.g.h.diks/c.g.h.diks.html). 
+Hello! I am Andrea Titton, Postdoc at the University of Bologna, working on modelling firms' expectation on the climate transition. Funding comes from [Emanuele Campiglio's](https://sites.google.com/site/ecampiglio/) [BELIEF project](https://cordis.europa.eu/project/id/101170509).
 
-### Job Market
+I did my PhD at the [CeNDEF group](https://cendef.uva.nl/) of the University of Amsterdam and the [Tinbergen Institute](https://tinbergen.nl/), under the supervision of [Florian Wagener](https://www.uva.nl/en/profile/w/a/f.o.o.wagener/f.o.o.wagener.html) and [Cees Diks](https://www.uva.nl/en/profile/d/i/c.g.h.diks/c.g.h.diks.html). 
 
-**I am currently on the job market.** Find:
- - [latest version of my JMP here](../static/docs/tipping-point.pdf) and
- - [my CV here.](static/docs/titton-cv.pdf)
+My research focuses on both transition risk and climate risk. I have worked on climate tipping points and their economic consequences. I am more broadly interested in environmental economics and game theory, particularly differential and network games. 
 
-My reference letter writers are [Florian Wagener (Uni. of Amsterdam)](https://www.uva.nl/en/profile/w/a/f.o.o.wagener/f.o.o.wagener.html), [Cees Diks (Uni. of Amsterdam)](https://www.uva.nl/en/profile/d/i/c.g.h.diks/c.g.h.diks.html), and [Rick van der Ploeg (Uni. of Oxford)](https://www.economics.ox.ac.uk/people/rick-van-der-ploeg-0).
-
-My research focuses on *climate tipping points* and their economic consequences. I am more broadly interested in *environmental economics* and *game theory*, particularly differential and network games. 
-
-You can find my work in progress under [research](/research).
+You can find my work in progress under [research](/research) and my [CV here](static/docs/titton-cv.pdf)
 
 ### On the side
 
-I like math and computers. I often play around with [Prolog](https://github.com/NoFishLikeIan/prolog-playground) and [Clojure](https://github.com/NoFishLikeIan/dietary-monitor). I love games of no chance, mainly chess and [domineering](https://webdocs.cs.ualberta.ca/~games/domineering/). I also like [hot water bottles](https://solar.lowtechmagazine.com/2022/01/the-revenge-of-the-hot-water-bottle.html) and economic history, especially history of central banking.
-
-### Reading now:
-
-- _The Story of Work_ by *Jan Lucassen*
-- _On Numbers and Games_ by *John Conway*
-- _The Examined Life_ by *Robert Nozick*
-- _Elbow Room_ by *Daniel Dennett*
+I like maths and computers. I use [Julia](github.com/NoFishLikeIan/carbon-tipping-point) and [Python](https://github.com/NoFishLikeIan/nlp-financial-env) for work. I play around with [Prolog](https://github.com/NoFishLikeIan/prolog-playground) and [Clojure](https://github.com/NoFishLikeIan/dietary-monitor). I like games of no chance, mainly [chess](https://en.wikipedia.org/wiki/Chess) and [domineering](https://webdocs.cs.ualberta.ca/~games/domineering/). I also like [hot water bottles](https://solar.lowtechmagazine.com/2022/01/the-revenge-of-the-hot-water-bottle.html) and economic history, especially history of central banking.
