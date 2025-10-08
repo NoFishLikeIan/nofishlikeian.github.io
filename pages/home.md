@@ -14,7 +14,7 @@ I did my PhD at the [CeNDEF group](https://cendef.uva.nl/) of the University of 
 
 My research focuses on both transition risk and climate risk. I have worked on climate tipping points and their economic consequences. I am more broadly interested in environmental economics and game theory, particularly differential and network games. 
 
-You can find my work in progress under [research](/research) and my [CV here](static/docs/titton-cv.pdf)
+You can find my work in progress under [research](/research) and my [CV here](static/docs/titton-cv.pdf).
 
 ### On the side
 
