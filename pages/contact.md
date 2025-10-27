@@ -9,6 +9,10 @@ eleventyNavigation:
   order: 5
 ---
 
+### Email me...
+
+Email me at andrea \<dot\> titton2 \<at\> unibo.it
+
 ### Follow me...
 
 - ...on [BlueSky](https://bsky.app/profile/nofishlikeian.bsky.social) for some random maths and econ stuff with a spray of ranting in Italian. 
