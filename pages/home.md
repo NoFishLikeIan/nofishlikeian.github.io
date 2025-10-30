@@ -1,14 +1,14 @@
 ---
 layout: layouts/home.njk
 title: Andrea Titton
-date: 2025-10-08
+date: 2025-10-30
 permalink: /
 eleventyNavigation:
   key: Home
   order: 1
 ---
 
-Hello! I am Andrea Titton, Postdoc at the University of Bologna, working on modelling firms' expectation on the climate transition. Funding comes from [Emanuele Campiglio's](https://sites.google.com/site/ecampiglio/) [BELIEF project](https://cordis.europa.eu/project/id/101170509).
+Hello! I am Andrea Titton. I am a Postdoc at the University of Bologna, working on modelling firms' expectations on the climate transition, in the [Emanuele Campiglio's](https://sites.google.com/site/ecampiglio/) [BELIEF project](https://cordis.europa.eu/project/id/101170509).
 
 I did my PhD at the [CeNDEF group](https://cendef.uva.nl/) of the University of Amsterdam and the [Tinbergen Institute](https://tinbergen.nl/), under the supervision of [Florian Wagener](https://www.uva.nl/en/profile/w/a/f.o.o.wagener/f.o.o.wagener.html) and [Cees Diks](https://www.uva.nl/en/profile/d/i/c.g.h.diks/c.g.h.diks.html). 
 
