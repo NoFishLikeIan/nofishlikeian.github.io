@@ -9,8 +9,7 @@ eleventyNavigation:
 
 ## Economics
 
-- [**The Uncertainty Premium of
-Climate Tipping Points**](../static/docs/tipping-point.pdf) (2023 - ongoing) - R&R @ JEEM
+- [**The Uncertainty Premium of Climate Tipping Points**](../static/docs/tipping-point.pdf) (2023 - ongoing) - R&R @ JEEM
     This paper studies how deep uncertainty about climate tipping points affects optimal climate policy and the social cost of carbon. Using an integrated assessment model with temperature feedbacks, it shows that tipping point uncertainty raises the social cost of carbon by 12–50%, adding roughly $20–40 per tonne when tipping points occur below 2.5°C of warming. While earlier detection of tipping points reduces this uncertainty premium by about 9%, the results highlight that near-term emissions reductions remain the most effective way to limit tipping-point risk.
 
 - [**Endogenous Fragility of Supply Chains and Correlated Disruption Risk**](../static/docs/endfrag.pdf) (2022 - 2024) - Under Review
