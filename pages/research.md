@@ -9,8 +9,9 @@ eleventyNavigation:
 
 ## Economics
 
-- [**The Cost of Uncertainty in Irreversible Climate Tipping Points**](../static/docs/tipping-point.pdf) (2023 - ongoing) - Under Revision
-    Using an integrated assessment model with a climate tipping point, I quantify the economic cost of uncertainty by comparing a "wishful thinker" planner who delays abatement with a "cautious" planner who acts early, finding uncertainty can reduce world output by up to 2.36%. The results show that cautious, early abatement is generally cheaper than gambling on the chance of avoiding a tipping point.
+- [**The Uncertainty Premium of
+Climate Tipping Points**](../static/docs/tipping-point.pdf) (2023 - ongoing) - R&R @ JEEM
+    This paper studies how deep uncertainty about climate tipping points affects optimal climate policy and the social cost of carbon. Using an integrated assessment model with temperature feedbacks, it shows that tipping point uncertainty raises the social cost of carbon by 12–50%, adding roughly $20–40 per tonne when tipping points occur below 2.5°C of warming. While earlier detection of tipping points reduces this uncertainty premium by about 9%, the results highlight that near-term emissions reductions remain the most effective way to limit tipping-point risk.
 
 - [**Endogenous Fragility of Supply Chains and Correlated Disruption Risk**](../static/docs/endfrag.pdf) (2022 - 2024) - Under Review
     Models the endogenous formation of supply chains under correlated disruptions, showing that greater correlation among upstream producers reduces downstream diversification incentives and can trigger widespread under-diversification and large welfare losses; improved information about supply-chain risk can further exacerbate these losses.
