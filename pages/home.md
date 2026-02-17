@@ -8,7 +8,7 @@ eleventyNavigation:
   order: 1
 ---
 
-Hello! I am Andrea Titton. I am a Postdoc at the University of Bologna, working on modelling firms' expectations on the climate transition, working under the [BELIEFs project](https://site.unibo.it/beliefs/en).
+Hello! I am Andrea Titton. I am a Postdoc at the University of Bologna, modelling firms' expectations on the climate transition, working under the [BELIEFs project](https://site.unibo.it/beliefs/en).
 
 I did my PhD at the [CeNDEF group](https://cendef.uva.nl/) of the University of Amsterdam and the [Tinbergen Institute](https://tinbergen.nl/), under the supervision of [Florian Wagener](https://www.uva.nl/en/profile/w/a/f.o.o.wagener/f.o.o.wagener.html) and [Cees Diks](https://www.uva.nl/en/profile/d/i/c.g.h.diks/c.g.h.diks.html). 
 
